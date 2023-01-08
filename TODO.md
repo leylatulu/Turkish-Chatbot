@@ -1,13 +1,10 @@
-Data Scraping from Websites (Done)
-Data Cleaning (Done)
-Data Preparation (Done)
-Data Visualization
-Data Analysis
-Stemmer
-...
-Vectorization 
+* Data Scraping from Websites (Done)
+* Data Cleaning (Done)
+* Data Preparation (Done)
+* Data Visualization
+* Data Analysis
 
-Modeling
-Model Evaluation
-Model Deployment
+
+* Modeling (Done)
+* Model Deployment w/Flask (Done)
 
