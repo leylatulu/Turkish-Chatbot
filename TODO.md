@@ -6,5 +6,6 @@
 
 
 * Modeling (Done)
+* Web Interface w/HTML & CSS
 * Model Deployment w/Flask (Done)
 
