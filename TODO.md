@@ -1,10 +1,9 @@
-* Data Scraping from Websites (Done)
-* Data Cleaning (Done)
-* Data Preparation (Done)
-* Data Visualization (Done)
-* Data Analysis (Done)
-
-
-* Modeling (Done)
-* Web Interface w/HTML & CSS (Done)
-* Model Deployment w/Flask (Done)
+* Data Scraping from Websites ✔️
+* Data Cleaning ✔️
+* Data Preparation ✔️
+* Data Visualization ✔️
+* Data Analysis ✔️
+<br>
+* Modeling ✔️
+* Web Interface w/HTML & CSS ✔️
+* Model Deployment w/Flask ✔️
