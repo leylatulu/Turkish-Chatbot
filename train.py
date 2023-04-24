@@ -23,7 +23,7 @@ import nltk
 import warnings
 warnings.filterwarnings('ignore')
 
-intents = json.loads(open("intense.json", encoding="utf-8", errors='ignore').read())
+intents = json.loads(open("intents.json", encoding="utf-8", errors='ignore').read())
 
 
 lemmatizer = WordNetLemmatizer()
