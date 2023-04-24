@@ -20,14 +20,11 @@ from nltk.corpus import stopwords
 import nltk
 # nltk.download('punkt')
 
-# warningleri kapatalım
 import warnings
 warnings.filterwarnings('ignore')
 
-# veri setini yükleme
-intents = json.loads(open("intense2 (1) (1) (1).json", encoding="utf-8", errors='ignore').read())
+intents = json.loads(open("intense.json", encoding="utf-8", errors='ignore').read())
 
-# veri setini temizleme
 
 lemmatizer = WordNetLemmatizer()
 #stemmer = TurkishStemmer()
@@ -47,17 +44,15 @@ def metin_onisle(metin):
     temiz_dokuman_kelimeleri = temiz_dokuman.split(' ')
     temiz_dokuman_kelimeleri = [kelime for kelime in temiz_dokuman_kelimeleri if len(kelime) > 0]
     temiz_dokuman_kelimeleri = [lemmatizer.lemmatize(kelime) for kelime in temiz_dokuman_kelimeleri]
-    n = 2  # n sayısı kadar kelimeyi birleştiriyoruz
-    bigrams = ngrams(temiz_dokuman_kelimeleri, n)  # burada bigramlar ile kelimeleri birleştiriyoruz
+    n = 2 
+    bigrams = ngrams(temiz_dokuman_kelimeleri, n)
     bigramstr = map(''.join, bigrams)
     ngram = " ".join(list(bigramstr))
     temiz_dokuman = " ".join(temiz_dokuman_kelimeleri) + " " + "".join(ngram)
     return temiz_dokuman
 
 
-
-# tüm patternslar için wordcloud
-# tüm patternsları çek
+# tüm patternslar
 all_patterns = []
 
 for intent in intents["intents"]:
@@ -71,7 +66,7 @@ for intent in intents["intents"]:
         if intent["tag"] not in classes:
             classes.append(intent["tag"])
 
-# stop wordsleri sildikkk offfff
+
 sw = stopwords.words('turkish')
 words = [w for w in words if not w in sw]
 
@@ -102,31 +97,9 @@ def generate_word_cloud():
     plt.axis("off")
     plt.show(block=True)
 
-
-# generate word cloud
 generate_word_cloud()
 
 
-
-"""def metin_onisle(metin):
-    kucuk_harfli_metin = unicode_tr(metin).lower()
-    istenen_karakterler = set(list(' abcdefghijklmnopqrstuvwxyzâçîöüğış0123456789'))
-    harfler = list(kucuk_harfli_metin)
-    harfler = [k if k in istenen_karakterler else ' ' for k in harfler]
-    temiz_dokuman = "".join(kucuk_harfli_metin)
-    temiz_dokuman_kelimeleri = temiz_dokuman.split(' ')
-    temiz_dokuman_kelimeleri = [kelime for kelime in temiz_dokuman_kelimeleri if len(kelime) > 0]
-    turkStem = TurkishStemmer()  # stemmer ile kelime köklerini buluyoruz
-    temiz_dokuman_kelimeleri = [turkStem.stemWord(kelime) for kelime in temiz_dokuman_kelimeleri]
-    n = 4  # n sayısı kadar kelimeyi birleştiriyoruz
-    bigrams = ngrams(temiz_dokuman_kelimeleri, n)  # burada bigramlar ile kelimeleri birleştiriyoruz
-    bigramstr = map(''.join, bigrams)
-    ngram = " ".join(list(bigramstr))
-    temiz_dokuman = " ".join(temiz_dokuman_kelimeleri) + " " + "".join(ngram)
-    return temiz_dokuman"""
-
-
-# burada
 def bag_of_words(s, words):
     bag = [0 for _ in range(len(words))]
 
@@ -185,14 +158,14 @@ for doc in documents_X:
 
     training.append([bag, output_row])
 
-#random.shuffle(training)
+
 training = np.array(training)
 train_x = list(training[:, 0])
 train_y = list(training[:, 1])
 
 len(train_x[0]), len(train_y[0]), len(train_x), len(train_y),len(training)
 
-# chatbot eğitimi için
+
 
 model = Sequential()
 model.add(Dense(200, input_shape=(len(train_x[0]),), activation="relu"))
@@ -200,7 +173,6 @@ model.add(Dense(200, input_shape=(len(train_x[0]),), activation="relu"))
 model.add(Dense(150, activation="relu"))
 
 model.add(Dense(len(train_y[0]), activation="softmax"))
-# Stochastic gradient descent with Nesterov accelerated gradient gives good results for this model
 sgd = SGD(learning_rate=0.01, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss="categorical_crossentropy", optimizer=sgd, metrics=["accuracy"])
 
