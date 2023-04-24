@@ -1,0 +1,499 @@
+{"intents": [
+        {"tag": "sıfırdan başlayanlar için veri bilimi_00",
+    "patterns": ["Sıfırdan başlayanlar için veri bilimi bootcamp ön koşullar neler","Sıfırdan başlayanlar için veri bilimi bootcamp","Sıfırdan başlayanlar için veri bilimi bootcamp nedir", "Sıfırdan başlayanlar için veri bilimi bootcamp ön koşullar nelerdir","Sıfırdan başlayanlar için ön koşullar nelerdir"],
+   "responses": ["Sıfırdan Başlayanlar için Veri Bilimi programına başlamadan önce katılımcıların çeşitli konularda deneyimli olmaları alınacak verim açısından değer taşımaktadır ancak bir ön-koşul olarak düşünülmemelidir. Tüm eğitimleri o konularla ilgili teknik yetkinliklere sahip olmadığınızı odağımıza alarak tasarladık.Ayrıca mentor ekibimiz desteğe ihtiyaç duyduğunuz noktalarda başarılı bir öğrenme deneyimi yaşayabilmeniz adına sizinle birebir ilgileniyor olacak."]
+},
+        {"tag": "Data Analyst Path_00",
+    "patterns": ["Data Analyst Path fiyatı ne kadar","Data Analyst Path ücreti nedir","Veri analizi path ne kadar","Analyst fiyatı","Veri analizi için fiyat ne"],
+   "responses": ["12 aylık erişim ile 364 dolarcıktır. Bknz https://l24.im/h8aBJ"]
+},
+       { "tag": "Data Analyst Path_01",
+    "patterns": ["Data Analyst Path programından en iyi şekilde nasıl yararlanabilirim?","Veri Analizi programından en iyi şekilde nasıl yararlanabilirim"],
+   "responses": ["bilmem belkide çok çalışarak olabilir dene istersen elon :D ama yinede klasik cevap vermeliymişim okumaya devam et bakalım... Programın başarılı bir şekilde tamamlanması için, sağlanan tüm kaynakları her hafta -haftada belirlediğiniz minimum iki gün- izlemek ve size videolarda gösterdiğim tüm projeleri yapmak önemlidir.Kendi hızınızda çalışın ve diğerine geçmeden önce bir modülü gerçekten anlamak ve uygulamak için zaman ayırın. En önemli şey pratik yapmak, pratik yapmak ve pratik yapmaktır. Teknolojileri pratikte uygularken daha hızlı öğrenmenize ve işte size güven vermenize yardımcı olacaktır. Her modülde, yalnızca modüldeki teknolojiyi değil, aynı zamanda önceki modüllerde öğrenmiş olduğunuz diğer araçlarla kombinasyonu da uygulayabileceğiniz bir uygulamalı laboratuvar bulunmaktadır. Ayrıca, diğer katılımcılarla bilgi alışverişinde bulunmak, mentorunuza soru sormak ve başkalarına yardım etmek için her fırsatınızı kullanın, çünkü en iyi yollardan biri de başkalarına öğretmek ve yardımcı olmaktır."]
+},
+       { "tag": "Data Analyst Path_02",
+    "patterns": ["Data Analyst Path neden kayıt olmalıyım?","Veri analizi programına neden kayıt olmalıyım?"],
+   "responses": ["Sen aklına koyduğun her şeyi başarırsın çünkü senin inanılmaz bir gücün var ve sevgin de var :) Data Analyst Path size Python ve istatistik gibi en iyi işverenler tarafından talep edilen veri becerilerinde uzmanlaşma fırsatı sunar. Programın sonunda, karmaşık veri problemlerini çözme yeteneğinizi gösteren bir çalışma portföyü oluşturmuş olacaksınız. Mezun olduktan sonra, büyük bir şirkete veya küçük bir şirkete katılmak, hatta serbest çalışan bir veri analisti olarak bağımsız olmak için gereken becerilere sahip olacaksınız. Sizi veri alanında yüksek değerli işler için nitelendiren talep üzerine becerilerde uzmanlaştıkça kişiselleştirilmiş desteğe sahip olacaksınız. Ayrıca, verilerde başarılı bir kariyer oluşturmaya ve sevdiğiniz bir işe girmeye hazır olduğunuzdan emin olmanıza yardımcı olacak profil ve portföy incelemeleri aracılığıyla kariyer desteği alacaksınız."]
+},
+       { "tag": "Data Analyst Path_03",
+    "patterns": ["Data Analyst Path programı beni hangi işlere hazırlayacak?","Veri analizi programı beni hangi işlere hazırlayacak?"],
+   "responses": ["Mezunlar, çok çeşitli veri ile ilgili rolleri doldurmaya iyi hazırlanacaktır. Rollerden bazıları: Veri Analisti, Analitik Danışmanı, Ürün Yöneticisi ve Yönetim Danışmanı."]
+},
+       { "tag": "Data Analyst Path_04",
+    "patterns": ["Data Analyst Path programının benim için uygun olup olmadığını nasıl anlarım?","Veri Analizi path programının benim için uygun olup olmadığını nasıl anlarım?"],
+   "responses": ["Veriye dayalı kararlar vermek veya analiz yapmak için çeşitli veri türleri ile çalışmak isteyen veya veri analisti olmak isteyen biriyseniz, bu program sizin için idealdir, çünkü uygulamalı istatistikleri, veri tartışmasını öğreneceksiniz. Python ve Matplotlib ile veri görselleştirme, herhangi bir veri kümesiyle çalışmanıza ve anlamlı içgörüler bulup sergilemenize olanak tanır. Bu, Veri Analisti ve Analitik Danışmanı gibi rollere hak kazanmanızı sağlayacaktır. Bu programda başarılı olmak için piton ve pandalarla biraz deneyim sahibi olmanız gerekecek ve bu sizseniz ve bu becerileri gerçek dünya projelerine uygulamaya hazırsanız, bugün kaydolmanızı öneririz."]
+},
+       { "tag": "Data Engineer Path_00",
+    "patterns": ["Data Engineer path fiyatı ne kadar?","Data Engineer path fiyat?","Data Engineer path fiyatı?", "Veri mühendisi path fiyatı ne kadar?"],
+   "responses": ["12 aylık erişim ile 674 dolarcıktır."]
+},
+       { "tag": "Data Engineer Path_01",
+    "patterns": ["Data Engineer ön koşullar neler?","Data Engineer ön koşul?","Data Engineer ön koşullar","Data Engineer ön koşullar ne", "Veri mühendisi ön koşullar neler?"],
+   "responses": ["Data Engineer Path, başlangıç düzeyde Python ve SQL becerilerine sahip öğrenciler için tasarlanmıştır. Programı başarıyla tamamlamak için öğrencilerin aşağıdaki programlama kavramlarına hakim olmaları faydalı olacaktır: Temel SQL komutları, Diziler, sayılar ve değişkenler, İfadeler ve işleçler, Koşullar, döngüler, Prosedürler, nesneler, modüller ve kitaplıklar, Sorun giderme ve hata ayıklama, Araştırma ve dokümantasyon, Problem çözme ,Algoritmalar ve veri yapıları, Tablo tanımlama ve düzenleme"]
+},
+       { "tag": "Data Engineer Path_02",
+    "patterns": ["Data Engineer Path programına neden katılmalıyım?","Data Engineer Path programına neden katılayım?","Data Engineer Path'e neden katılayım?"],
+   "responses": ["Veri mühendisliği alanının önümüzdeki birkaç yıl içinde hızla büyümeye devam etmesi bekleniyor ve endüstriler arasında veri mühendislerine büyük talep var. Miuul, veri mühendisliği kariyerinizi ilerletebilmeniz için birinci sınıf bir öğrenme deneyimi sunmak için sektör profesyonelleriyle işbirliği yaptı. Veri ardışık düzenlerini çalıştırma, ilişkisel ve NoSQL veri modelleri oluşturma, bulutta veritabanları oluşturma ve daha pek çok uygulamalı deneyim elde edeceksiniz. Miuul, sizi veri mühendisliği alanında yüksek değeri olan işler için niteliklendirecek ve sevdiğiniz bir işe girmenize yardımcı olacak adımlarda destekleyecektir. Bu programının sonunda, etkileyici bir gerçek dünya projeleri portföyüne ve sektör uygulamalı deneyime sahip olacaksınız."]
+},
+       { "tag": "Data Engineer Path_03",
+    "patterns": ["Data engineer programından en iyi şekilde nasıl yararlanabilirim?"],
+   "responses": ["Programın başarılı bir şekilde tamamlanması için, sağlanan tüm kaynakları her hafta -haftada belirlediğiniz minumum iki gün- izlemek ve size videolarda gösterilen tüm projeleri yapmak önemlidir. Kendi hızınızda çalışın ve diğerine geçmeden önce bir modülü gerçekten anlamak ve uygulamak için zaman ayırın. En önemli şey pratik yapmak, pratik yapmak ve pratik yapmaktır :) Teknolojileri pratikte uygularken daha hızlı öğrenmenize ve işte size güven vermenize yardımcı olacaktır. Her modülde, yalnızca modüldeki teknolojiyi değil, aynı zamanda önceki modüllerde öğrenmiş olduğunuz diğer araçlarla kombinasyonu da uygulayabileceğiniz bir uygulamalı laboratuvar bulunmaktadır. Ayrıca, diğer katılımcılarla bilgi alışverişinde bulunmak, mentorunuza soru sormak ve başkalarına yardım etmek için her fırsatınızı kullanın, çünkü en iyi yollardan biri de başkalarına öğretmek ve yardımcı olmaktır"]
+},
+       { "tag": "Data Engineer Path_04",
+    "patterns": ["Data engineer path için çalışmalarımı nasıl bir bilgisayar üzerinde gerçekleştirebilirim?"],
+   "responses": ["Eğitim için en az 8 GB RAM, 4 çekirdek işlemci ve 25 GB boş disk alanına sahip bilgisayar ve fiber/adsl internet erişimi gereklidir. İşletim sistem MacOS (M1 işlemcili olanlar hariç) veya Windows 10/11 olabilir. Sanallaştırma yazılımı olarak Virtualbox veya VmWare Player/Pro tercih edilebilir."]
+},
+{        "tag": "Data Scientist Path_00",
+    "patterns": ["Data Scientist path fiyatı ne kadar?", "Veri bilimci path fiyatı ne kadar?"],
+   "responses": ["12 aylık erişim ile 480 dolarcıktır"]
+},
+       { "tag": "Data Scientist Path_01",
+    "patterns": ["Data scientist programını tamamladıktan sonra sektörde ne tür pozisyonlar için uygun olacağım?"],
+   "responses": ["Gel yarın Andrew NG olarak başla kanka sen :) Veri Bilimcisi olmak için gereken becerileri edinmek üzere Miuul Data Scientist Path'i başarı ile tamamlamak, sizi birçok endüstride ve birçok rolde son derece değerli kılacaktır. Veri bilimi eğitimi almış profesyoneller için ideal olan işler Veri Analisti, Veri Bilimci, Yapay Öğrenme Mühendisi, İstatistiksel Programlama Uzmanı olmak üzere; bunlara ek olarak bazı kişiler Veri ve Analitik Yöneticileri olurken, diğerleri Veritabanı Yöneticileri olarak uzmanlaşabiliyorlar."]
+},
+       { "tag": "Data Scientist Path_02",
+    "patterns": ["neden bu veri bilimi programına katılmalıyım?", "neden bu data scientist programına katılmalıyım?"],
+   "responses": ["Veri bilimi alanının önümüzdeki birkaç yıl içinde hızla büyümeye devam etmesi bekleniyor ve endüstriler arasında veri bilimciler için büyük bir arz talep boşluğu var. Veri Bilimcisi sürekli olarak en iyi kariyer olarak derecelendiriliyor. Miuul olarak, veri bilimi kariyerinizi ilerletebilmeniz için birinci sınıf bir öğrenme deneyimi sunmak için endüstri liderleriyle işbirliği yaptık. Ellerinizi sektörün ihtiyaç duyduğu projelerde kirletmiş bir Veri Bilimcisi adayı olarak bu program aracılığıyla eşsiz bir deneyim elde edeceksiniz. Programın sonunda, portfolyonuza etkileyici bir gerçek dünya projeleri ekleme şansına erişeceksiniz. Ayrıca, başarılı bir veri bilimi kariyeri oluşturmaya ve sevdiğiniz bir işe girmeye hazır olduğunuzdan emin olmanıza yardımcı olacak kariyer desteği alacaksınız."]
+},
+        {"tag": "Machine Learning Engineer Path_00",
+    "patterns": ["Machine Learning Engineer Path fiyatı ne kadar?", "Makine öğrenmesi mühendisi path fiyatı ne kadar?"],
+   "responses": ["12 aylık erişim ile 350 dolarcıktır"]
+},
+       { "tag": "Machine Learning Engineer Path_01",
+    "patterns": ["Machine Learning Engineer Path'e neden kayıt olmalıyım?"],
+   "responses": ["Bu program, makine öğrenimi uzmanlarına yönelik artan ihtiyaçtan yararlanmanıza yardımcı olmak için tasarlanmıştır. Üretimde makine öğrenimi modelleri oluşturup dağıtabilecek nitelikli mühendislere yönelik talebi karşılamaya hazırlanmak için kariyer yolculuğuna çıkmalısınız."]
+},
+       { "tag": "Machine Learning Engineer Path_02",
+    "patterns": [" Machine Learning Engineer programının benim için uygun olup olmadığını nasıl anlarım?"],
+   "responses": ["Kariyer yolculuğu, mühendislik kariyerlerini son teknoloji makine öğrenimi becerileriyle ilerletmek isteyen bireyler içindir."]
+},
+        {"tag": "Machine Learning Engineer Path_03",
+    "patterns": ["Başvuru yapmam gerekiyor mu? Kabul kriterleri nelerdir?"],
+   "responses": ["Hayır. Bu kariyer yolculuğu programı, deneyim ve özel geçmişe bakılmaksızın tüm başvuru sahiplerini kabul etmektedir. Hadi kayıt ol"]
+},
+       { "tag": "vbo data analyst bootcamp_00",
+  "patterns": ["Neden data analyst bootcampi"],
+  "responses": ["Pazarlama, IK ve üretim gibi iş birimlerinde veri odaklı karar alma yetkinlikleri kazandıran Veri Analistliği Yetiştirme programıdır. Hızlandırılmış online ve mentor destekli bir akış ile ilerlemektedir. Eğitim 12 Şubat – 19 Mayıs 2023 tarihleri arasında gerçekleştirilecektir. Eğitim 12 hafta sürmektedir. Programın bitişinden sonra 2 hafta bireysel final projeleri için zaman verilecektir. Programın toplam süresi 14 haftadır. Eğitim sonunda 10+ gerçek hayat veri analizi projesi tamamlanmış olacaktır. Eğitim Miuul & Veri Bilimi Okulu iş birlikteliği ile hibrit bir şekilde gerçekleştirilecektir.VBO Bootcamp mezunlarına %20 indirim imkanı bulunmaktadır"]
+},
+  { "tag": "vbo data analyst bootcamp_01",
+  "patterns": ["data analyst bootcamp eğitimi toplam kaç hafta ve kaç saat olacak?","Data analyst bootcamp ne kadar sürecek","data analyst bootcamp eğitim süresi"],
+  "responses": ["Eğitimimiz toplam 14 hafta 84 saat olacaktır."]
+},
+  { "tag": "vbo data analyst bootcamp_02",
+  "patterns": ["Data analyst bootcamp ücreti ne kadardır?"],
+  "responses": ["Bireysel: 11.500 TL, Öğrenci: 9.000 TL"]
+},
+  { "tag": "vbo data analyst bootcamp_03",
+  "patterns": ["Mentorler tam olarak ne yapacaktır?"],
+  "responses": ["Eğitmen tarafından verilen dersler ve ödevler ile ilgili sorulara cevap verecek, teknik problemlerde destek olacaktır. Aynı zamanda bitirme ödevinin takibini yapacaklardır."]
+},
+    { "tag": "vbo data analyst bootcamp_04",
+  "patterns": ["data analyst bootcamp eğitiminde hangi projeler yapılacaktır?"],
+  "responses": ["Kural Tabanlı Sınıflandırma, RFM Analizi, Müşteri Profili Analizi, Müşteri Segmentasyonu, CLTV Analizi, Startup Büyüme Metrikleri Analizi, Ürün Derecelendirme/Sıralama, AB Test, Sepet Analizi ve Ürün Tavsiye, Çoklu Regresyon Analizi, NPS Analizi, Kestirimci Bakım Analizi, Ürün Kalite Geliştirme ve Kontrol, Müşteri Memnuniyet Analizi, Kayıp Müşteri Analizi, Satış Tahminlemesi, Çalışan Terk/Yokluk Analizi, İş Gücü Devir Analizi (Turn Over Rate)"]
+},
+    { "tag": "vbo data analyst bootcamp_05",
+  "patterns": ["data analyst bootcamp programında hangi konular ele alınacak?"],
+  "responses": ["Excel Analistliği, MS SQL Sorgulama, Python ile Veri Analizi ve Veri Görselleştirme, İstatistik ile Karar Alma ve Analitik Yöntemler, CRM Analitiği, Power BI ile Veri Analizi ve Veri Görselleştirme, Pazarlama Mühendisliği Giriş, İleri Seviye Pazarlama Mühendisliği, Endüstri 4.0 ve IOT Analitiği, İK Analitiği, Büyük Veri ve Yapay Zeka Teknolojileri ile Marka Yönetimi"]
+},
+    { "tag": "vbo data analyst bootcamp_06",
+  "patterns": ["data analyst bootcamp eğitimi nasıl ele alınacak?"],
+  "responses": ["Eğitim iki bölümden oluşmaktadır. İlk 6 hafta iyi bir Veri Analisti olmak için gerekli olan temel teknik araçlar (Excel, SQL, Python, Power BI) örnek projeler ile öğretilecektir. İkinci 6 haftada stratejik karar alma süreçlerinin Veri Analitiği ile nasıl yönetildiği uygulamalı projeler ile anlatılacaktır. Eğitimde teknik yetkinlikler ve strateji odaklı iş bilgisini dengeli olarak aynı anda ele alacak, vaka çalışmaları ile birleştirecektir. Aktif öğrenme süreci: Alıştırmalar-ödevler ve projeler. Self Learning: Teknik eğitimler (Excel, SQL, Python, Power BI) video içerikler olup öğrenme hızınıza göre olup tekrarlı izleme imkanı sağlar. Recap dersleri ile eksik kalınan noktalar tamamlanır. Mentor desteği: Eğitmen tarafından verilen dersler ve ödevler ile ilgili sorulara cevap verecek, teknik problemlerde destek olacaktır. Aynı zamanda bitirme ödevinin takibini yapacaklardır. Kariyer koçluğu: Etkili CV oluşturma, kişisel marka değeri ve içerik üretme stratejileri gibi konularda modern kariyer koçluğu"]
+},
+    { "tag": "vbo data analyst bootcamp_07",
+  "patterns": ["data analyst bootcamp eğitimin hedef kitlesi nedir?"],
+  "responses": ["Veri Analisti veya İş Analisti olarak kariyerine başlamak isteyen öğrenciler. Çalıştığı iş biriminde veri odaklı karar alma sürecini hayata geçirmek isteyenler (Pazarlama, IK, Üretim, Satış, Planlama Departmanlarındaki uzmanlar/yöneticiler),Kariyerini değiştirerek Veri Analisti olmak isteyenler. Veri Analisti olup analist toolarında (Excel, SQL, Python, Power BI) yetkinliklerini artırmak isteyenler. Veri Analisti olup vaka çalışmaları ile pazarlama, IK, stratejik karar alma ve yapay zeka konusunda iş bilgisini güçlendirmek isteyenler."]
+},
+    { "tag": "vbo data analyst bootcamp_08",
+  "patterns": ["data analyst bootcamp eğitimi nerede gerçekleştirilecektir?"],
+  "responses": ["Eğitim online-canlı olarak Zoom üzerinden gerçekleştirilecektir."]
+},
+  {"tag": "vbo data engineering bootcamp_00",
+ "patterns": ["Neden bu data engineering bootcamp programı?"],
+ "responses": ["Bootcamp, online/uzaktan olarak deneyimli bir eğitmen ve ekip tarafından verilmektedir.Bootcamp esnasında iş hayatında rahatlıkla kullanabileceğiniz seviyede profesyonel data engineering öğreneceksiniz.Türkçe olarak hiçbir  online ya da sınıf eğitimlerinde bulunmayan ve sadece bootcamp katılımcılarına özgü içeriklerle gerçek hayata uygun bir süreç deneyimleyeceksiniz.Birlikte öğrenme ve topluluk gücünden faydalanma imkanı bulacaksınız."]
+  },
+    {"tag": "vbo data engineering bootcamp_01",
+ "patterns": ["data engineering bootcamp ön gereksinimler","VBO data engineering bootcamp ön gereksinimler",
+   "data engineering bootcamp ön koşullar","VBO data engineering bootcamp ön şartlar",
+   "data engineering bootcamp ön gereksinimler neler","VBO data engineering bootcamp ön gereksinimler nelerdir",
+   "data engineering bootcamp ön gereksinimler ne","VBO data engineering bootcamp ön gereksinimler nedir"],
+ "responses": ["Python bilgisi (ön hazırlıkta mevcuttur), Temel Docker bilgisi (ön hazırlıkta mevcuttur), Temel SQL ve veri tabanı bilgisine sahip olmak (ön hazırlıkta mevcuttur)"]
+  },
+    {"tag": "vbo data engineering bootcamp_02",
+ "patterns": ["data engineering bootcamp programının süresi, tarihleri ve ders saatleri"],
+ "responses": ["Eğitim süresi: Ön hazırlık aşaması Miuul üzerinden 2-4 hafta, Canlı eğitimler 8 hafta, Bitirme projesi 2 hafta, Ön hazırlık aşaması kesin kayıt gerçekleşir gerçekleşmez başlar. Canlı eğitim: 28 Ocak – 18 Mart 2023 (DataOps-7), Proje sunumları: 1-2 Nisan 2023, Canlı eğitimler: Cumartesi-Pazar 10:00-13:00 saatlerinde olacaktır. Ayrıca hafta içi Perşembe saat 20:00’de verilen ödevlerin sunumları/çözümleri olacaktır. (1-2 saat arası)"]
+  },
+    {"tag": "vbo data engineering bootcamp_03",
+ "patterns": ["data engineering bootcamp program Ücreti"],
+ "responses": ["Öğrenci: 13.800 tl KDV dahildir. Tam zamanlı: 17.000 tl KDV dahildir. Not 1: Eski VBO Bootcamp mezunlarına %20 indirim uygulanır. Not 2: Rakamlar şu anki liste fiyatı olup kesin kayıt gerçekleşene kadar fiyat güncellemesi olabilir. Not 3: Fiyata ön hazırlık programı dahildir."]
+  },
+    {"tag": "vbo data engineering bootcamp_04",
+ "patterns": ["data engineering bootcamp programının işleyişi"],
+ "responses": ["Aktif öğrenme süreci: Alıştırmalar-ödevler ve projeler. Kendi programını kendin belirle: Tüm derslerin video versiyonları ile müsaitlik durumuna göre tekrar çalışma imkanı."]
+  },
+    {"tag": "vbo data engineering bootcamp_05",
+ "patterns": ["data engineering bootcamp programının içeriği - müfredat","data engineering bootcamp programının içeriği - müfredatı"],
+ "responses": ["Linux Basic, Bash Script (Ön hazırlık), Git Basic (Ön hazırlık), Crontab (Ön hazırlık), Postgresql & SQL Basics (Ön hazırlık), Docker & Kubernetes (Ön hazırlık), Python Programming (Ön hazırlık), Data Engineering Concept, Big Data Basics, Apache Hadoop HDFS, YARN, Hive, Sqoop, Apache Kafka and Ecosystem, Apache Spark Dataframe API, Spark Optimization Techniques, Lakehouse: Delta Lake, Apache Spark Streaming, Spark on Databricks, Hadoop YARN, Kubernetes, and Standalone Cluster, Apache Airflow, Introduction to NoSQL and CAP Theorem, Introduction to Elastic Stack (Elasticsearch, Kibana), Introduction to Apache Cassandra, Introduction to MongoDB, AWS Core and Analytic Services, Data Engineering on AWS (Athena, Glue, Lambda, EMR, and more), Demos: Multinode Kubernetes Cluster, Extras: Introduction to Apache Flink"]
+  },
+    {"tag": "vbo data engineering bootcamp_06",
+ "patterns": ["data engineering bootcamp programı süresince proje gerçekleştirilecek konular"],
+ "responses": ["PySpark, Data Pipeline, ETL, Streaming"]
+  },
+    {"tag": "vbo data engineering bootcamp_07",
+ "patterns": ["Bu data engineering bootcamp programı kimler için  uygun?"],
+ "responses": ["Öncelik sırasına göre Data Engineer, ML Engineer ve Data Scientist rollerinde bulunanlar ile bu rollere aday olanlara yöneliktir. Ekibinde bu rollere sahip ekip liderleri de takip edebilir. Ayrıca sektörde yönünüzü bulmak, nereye doğru gitmek istediğinize daha sağlıklı karar vermek istiyorsanız bu eğitim sonrasında bu hususların netleşeceğini düşünüyoruz. Peki ben bu programı takip edebilir miyim? Temel Python programlama ve SQL biliyorsanız, temel bilgisayar bilimleri kavramlarına aşinaysanız bu eğitimi takip edebilirsiniz."]
+  },
+    {"tag": "vbo data engineering bootcamp_08",
+ "patterns": ["data engineering bootcamp programı süresince dersler nerede işlenecektir?"],
+ "responses": ["Ön hazırlık aşaması Miuul üzerinden takip edilecektir. Canlı eğitimler online olarak Microsoft Teams, Zoom vb. platformlar üzerinde gerçekleştirilecektir."]
+  },
+    {"tag": "vbo data engineering bootcamp_09",
+ "patterns": ["Çalışmalarımı nasıl bir bilgisayar üzerinde gerçekleştirebilirim?"],
+ "responses": ["Eğitim için en az 8 GB RAM, 4 çekirdek işlemci ve 60 GB boş disk alanına sahip bilgisayar ve fiber/adsl internet erişimi gereklidir. İşletim sistem MacOS (M1 işlemcili olanlar hariç) veya Windows 10/11 olabilir. Sanallaştırma yazılımı olarak Virtualbox veya VmWare Player/Pro tercih edilebilir. "]
+  },
+    {"tag": "vbo data scientist bootcamp_00",
+ "patterns": ["Neden bu data scientist bootcamp programı?"],
+ "responses": ["Online-uzaktan eğitimde deneyimli bir ekip ile çalışma imkanı. Türkçe olarak hiçbir online ya da in-class eğitimde bulunmayan özgün içeriklerle gerçek hayata uygun bir süreç deneyimleyeceksiniz. Birlikte öğrenme ve topluluk gücünden faydalanma imkanı olacaktır. Personal marketing ve iş arama konularında eğitim verilecektir. Deneyimli bir veri bilimciden sektörün beklentilerine yönelik projelerle dolu bir eğitim olacaktır."]
+  },
+      {"tag": "vbo data scientist bootcamp_01",
+ "patterns": ["data scientist bootcamp eğitimi toplam kaç hafta ve kaç saat olacak? Ders saati ve günleri nelerdir?"],
+ "responses": ["Eğitimimiz toplam 16 hafta 200+ saat olacaktır."]
+  },
+      {"tag": "vbo data scientist bootcamp_02",
+ "patterns": ["data scientist bootcamp program ücreti ne kadardır?","data scientist bootcamp ücret"],
+ "responses": ["Erken kayıt dönemine özel %20 indirim! İndirim öncesi fiyatlandırma: Bireysel: 22.000 TL, Öğrenci: 17.600 TL"]
+  },
+      {"tag": "vbo data scientist bootcamp_03",
+ "patterns": ["Mentorler tam olarak ne yapacaktır?"],
+ "responses": ["Eğitmen tarafından verilen ödevler, modül bitirme soruları ve projeler mentor görüşmelerinde ele alınacaktır (katılım zorunlu değildir)."]
+  },
+      {"tag": "vbo data scientist bootcamp_04",
+ "patterns": ["data scientist bootcamp programında hangi konular ele alınacak?"],
+ "responses": ["Veri Bilimi için Python Programlama, Çalışma Ortamı Ayarları, Veri Yapıları, Fonksiyonlar, Koşullar & Döngüler, Comprehensions, Python ile Veri Analizi: NumPy, Python ile Veri Analizi: Pandas, Python ile Veri Analizi: Veri Görselleştirme, Python ile Veri Analizi: Gelişmiş Fonksiyonel Keşifçi Veri Analizi, CRM Analitiği: CRM Analitiğine Giriş, RFM Analizi, Tavsiye Sistemleri: Association Rule Learning, Ölçümleme Problemleri: Rating Products, Sorting Products, Sorting Reviews, AB Testi, Özellik Mühendisliği: Outliers, Missing Values, Encoding Scaling, Feature Extraction, Uygulama, Makine Öğrenmesi: Temel Kavramlar, Doğrusal Regresyon, Lojistik Regresyon, KNN, CART, Gelişmiş Ağaç Yöntemleri, Dengesiz Veri Setleri, Denetimsiz Öğrenme, Makine Öğrenmesi Pipeline, SQL: Giriş, Kurulum, Veritabanı İşlemleri, Veri Tipleri ve Normalizasyon, SQL Komutları, SQL ile Veritabanı Sorgulama, İlişkisel Veritabanı"]
+  },
+      {"tag": "vbo data scientist bootcamp_05",
+ "patterns": ["data scientist bootcamp eğitiminde hangi projeler yapılacaktır?"],
+ "responses": ["Python Alıştırmalar, Pandas Alıştırmalar, Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama, FLO RFM Analizi İle Müşteri Segmentasyonu, Armut Association Rule Based Recommender System, Rating Product & Sorting Reviews in Amazon, AB Testi ile Bidding Yöntemlerinin Dönüşümünün Karşılaştırılması, Telco Müşteri Terk Özellik Mühendisliği, Linear Regresyon Denklemi Hesaplama, Confusion Matrix Yorumlama, Ev Fiyat Tahmin Modeli, Telco Müşteri Terk Modeli, FLO Gözetimsiz Öğrenme, Scoutium Makine Öğrenmesi ile Yetenek Avcılığı Sınıflandırma, SQL Alıştırmalar"]
+  },
+      {"tag": "vbo data scientist bootcamp_06",
+ "patterns": ["data scientist bootcamp eğitimi nasıl ele alınacak?"],
+ "responses": ["Aktif öğrenme süreci: Alıştırmalar-ödevler ve projeler, Mentor desteği: Tüm katılımcılara mentorlar tarafından birebir destek, Kariyer koçluğu: Etkili CV oluşturma, kişisel marka değeri ve içerik üretme stratejileri gibi konularda modern kariyer koçluğu"]
+  },
+      {"tag": "vbo data scientist bootcamp_07",
+ "patterns": ["data scientist bootcamp eğitiminin hedef kitlesi nedir?"],
+ "responses": ["Veri bilimi ve yapay zeka alanlarında kariyer planı yapan kişiler."]
+  },
+      {"tag": "vbo data scientist bootcamp_08",
+ "patterns": ["Bu data scientist bootcamp eğitimi bana uygun mudur?"],
+ "responses": ["Geçmiş yıllardaki katılımcıların profilleri incelendiğinde üniversite çıkış bölümü eşit ağırlık ya da sayısal olanların daha başarılı olduğu gözlemlenmektedir."]
+  },
+      {"tag": "vbo data scientist bootcamp_09",
+ "patterns": ["Mentor sistemi ne demek? Katılımcılara ne gibi bir faydası olur?"],
+ "responses": ["Eğitimde tüm modüllerin sonlarında bölüm tamamlama soruları, ödevler ve projeler yer alacak. Tüm bu sorumlulukları yerine getirmesi beklenen katılımcılara karşılaştıkları problemler için yol arkadaşlığı edecek mentorlar yer alacak ve mentorlara anlık olarak ulaşılabilecek. Bununla birlikte mentorların haftalık düzenleyeceği problem çözümü ofis saatleri ile katılımcıların bir sonraki derse geçmeden önce tüm problemleri çözülmüş olacak."]
+  },
+      {"tag": "vbo data scientist bootcamp_10",
+ "patterns": ["data scientist bootcamp eğitimi nerede gerçekleştirilecektir?","data scientist bootcamp nerede yapılacak?"],
+ "responses": ["Eğitim online-canlı olarak Zoom üzerinden gerçekleştirilecektir."]
+  },
+      {"tag": "vbo data scientist bootcamp_11",
+ "patterns": ["Hibrit Program Nedir?","hibrit program ne oluyor?"],
+ "responses": ["Herkesin kendi öğrenme hızına göre dersi takip edebileceği kaliteli video içeriklerle oluşmuş program ile canlı eğitmen/mentor desteği eşliğinde projelerin yürütüldüğü Veri bilimci Yetiştirme formatıdır. Miuul iş birlikteliği ile gerçekleşecek olan hibrit programda sponsor şirketlerin gerçek problemleriyle sektörün dinamiklerine uygun proje deneyimi kazanmış olacaksınız."]
+  },
+      {"tag": "VBO MLOps bootcamp_00",
+ "patterns": ["Neden bu MLOps bootcamp programı?"],
+ "responses": ["Online-uzaktan eğitimde deneyimli bir ekip ile çalışma imkanı. MLOps konularını uygulama seviyesinde öğrenme. Türkçe olarak hiçbir online ya da sınıf eğitimlerinde bulunmayan özgün içeriklerle gerçek çalışma hayatına yakın örnekler. Birlikte öğrenme ve topluluk gücünden faydalanma imkanı. Sektör deneyim ve tecrübesi yüksek bir uzman ve ekibinden sektörün beklentilerine yönelik örneklerle dolu bir eğitim. Bulut üzerinde örnekler. Canlı olarak soru sorma özgürlüğü. Kompakt ve biz bize modunda samimi bir ortam."]
+  },
+
+    {"tag": "VBO MLOps bootcamp_01",
+ "patterns": ["MLOps bootcamp Programının süresi, tarihleri ve ders saatleri"],
+ "responses": ["Eğitim süresi: Ön hazırlık aşaması Miuul üzerinden 2-4 hafta, Canlı eğitimler 5 hafta, Bitirme projesi 2 hafta, Ön hazırlık aşaması kesin kayıt gerçekleşir gerçekleşmez başlar. Hibrit eğitim: 13 Mayıs 2023  – 17 Haziran 2023 (MLOps-3), Proje sunumları: 29-30 Haziran 2023, Canlı eğitimler ve ödev kontrolü Cumartesi 10:00-13:00 saatlerinde olacaktır. Her haftaya ait video eğitimler katılımcıların kendi müsatliğine ve hızına göre gerçekleşecektir."]
+  },
+
+{"tag": "VBO MLOps bootcamp_02",
+ "patterns": ["MLOps bootcamp programının Ücreti", "MLOps bootcamp programının ücreti nedir"],
+ "responses": ["Öğrenci: 8.600tl KDV Dahildir. Tam zamanlı: 11.000tl KDV Dahildir. Not1: Eski VBO Bootcamp öğrencilerine % 20 indirim uygulanır. Not-2: Rakamlar şu anki liste fiyatı olup kesin kayıt gerçekleşene kadar fiyat güncellemesi olabilir. Not3: Fiyata ön hazırlık programı dahildir."]
+},
+  {"tag": "VBO MLOps bootcamp_03",
+ "patterns": ["MLOps bootcamp için katılımcılarda aranan ön gereksinimler", "MLOps bootcamp için katılımcılarda aranan ön gereksinimler nelerdir"],
+ "responses": ["Python bilgisi (ön hazırlıkta mevcuttur), Temel Docker bilgisi (ön hazırlıkta mevcuttur), Temel makine öğrenmesi bilgisi (ön hazırlıkta mevcuttur), Daha önce iş için veya kişisel eğitim amacıyla ML modeli geliştirmiş olmak, Temel SQL ve veri tabanı bilgisine sahip olmak (ön hazırlıkta mevcuttur)"]
+},
+    {"tag": "VBO MLOps bootcamp_04",
+ "patterns": ["MLOps bootcamp programının işleyişi nedir"],
+ "responses": ["Aktif öğrenme süreci: Alıştırmalar-ödevler ve projeler. Kendi programını kendin belirle: Tüm derslerin video versiyonları ile müsaitlik durumuna göre tekrar çalışma imkanı."]
+},
+    {"tag": "VBO MLOps bootcamp_05",
+ "patterns": ["MLOps bootcamp program içeriği ve müfredatı"],
+ "responses": ["Ön Hazırlık (Miuul), Linux Basic, Bash Script, Git Basic, Crontab, Postgresql & SQL Basics, Docker, Python Programming, Machine Learning with Python, Introduction to MLOps, ML Engineering and Common Challenges in Machine Learning, MLOps Maturity Levels, Roles (ML Engineer, Data Scientist, Data Engineer), ML engineering in the real world, What does an ML solution look like?, High-level ML system design, The Machine Learning Development Process, Model development environments, Model development tools, Model deployment methods, Prepare environment (VM, Docker, AWS, AWS CLI, etc.),Create IAM role/user, Create an S3 bucket, read and write data with Python/Boto3, S3 compatible object storage: MinIO, How MLflow helps model development, Developing an API for ML Model Deployment, Introduction to FastAPI, CRUD Operations with FastAPI, Model Deployment with FastAPI, How to store and load models, Loading models from MLflow, Writing prediction results in database, Detecting model/data drifts, How to make ML models Docker images, Deployment on Docker and Kubernetes, Deployment on AWS EC2 Instance, ML Pipelines, Packaging Up The Codes, Developing user-defined libraries and packages, Testing, logging, and error handling, How to Scale, Apache Spark, How to Automate, CI/CD and Jenkins, What is IaaC?, Datascience on AWS"]
+},
+
+    {"tag": "VBO MLOps bootcamp_07",
+ "patterns": ["MLOps bootcamp çalışmalarımı nasıl bir bilgisayar üzerinde gerçekleştirebilirim?"],
+ "responses": ["Eğitim için Docker çalıştırabilen bir bilgisayar yeterlidir. Sınırlı olarak AWS kullanılacaktır. Bu konudaki maliyet katılımcıya aittir. Maksimum 5 USD."]
+},
+
+    {"tag": "VBO MLOps bootcamp_08",
+ "patterns": ["MLOps bootcamp programı süresince dersler nerede işlenecektir?"],
+ "responses": ["Ön hazırlık aşaması Miuul üzerinden takip edilecektir. Hibrit eğitimlerin canlı olanları Zoom üzerinden, video eğitimler ise Miuul üzerinden gerçekleştirilecektir."]
+},
+    {"tag": "VBO MLOps bootcamp_09",
+ "patterns": ["Bu MLOps bootcamp programı kimlere uygun?"],
+ "responses": ["Ana hedef kitle, öncelik sırasına göre, ML Engineer, Veri Bilimci ve Veri Mühendisleri ile bunların adaylarıdır. Son olarak da veri bilimi konularına meraklı kişiler. Eğer ön gereksinimleri karşılıyor ve model geliştirme sonrasında neler olup bittiği konusunda büyük bir heyecan duyuyorsanız sizden daha iyi bir aday olamaz."]
+},
+    {"tag": "vbo aws cloud technical bootcamp_00",
+ "patterns": [ "Neden aws cloud technical bootcamp programı?"],
+ "responses": ["Donanımlı eğitmenler sayesinde, katılımcılar kısa sürede sadece gerekli teorik bilgileri almakla kalmayacak, aynı zamanda bir çok gerçek yaşam projelerini de tecrübe etmiş olacaklar. Bu program, alandaki iş başvuruları için gerekli temel donanımı kazandıracağını iddia etmektedir."]
+},
+      {"tag": "vbo aws cloud technical bootcamp_01",
+ "patterns": [ "aws cloud technical bootcamp eğitimi toplam kaç hafta ve kaç saat olacak? Ders saati ve günleri nelerdir?"],
+ "responses": ["Çarsamba-Perşembe 20:00-23:00 arasında gerçekleşecektir. 8 hafta sürecektir. Son iki haftasında ise final projesi yapılacaktır."]
+},
+      {"tag": "vbo aws cloud technical bootcamp_02",
+ "patterns": [ "aws cloud technical bootcamp programının ücreti ne kadardır?"],
+ "responses": ["gönül ister ki sana bedava ama yapcak birşey yok. Bireysel: 8.350 TL, Öğrenci: 5.950 TL"]
+},
+      {"tag": "vbo aws cloud technical bootcamp_03",
+ "patterns": [ "aws cloud technical bootcamp için katılımcılarda aranan ön gereksinimler nelerdir?"],
+ "responses": ["Başlangıç seviyesinden başlanarak hazırlanan eğitimimiz sadece alana ilgili, motivasyonu yüksek ve verilen ödevleri aksatmadan yerine getirecek gereksinimler aranmaktadır."]
+},
+      {"tag": "vbo aws cloud technical bootcamp_04",
+ "patterns": [ "aws cloud technical bootcamp programının işleyişi nasıl olacak?"],
+ "responses": ["öyle kafamıza göre :D Teorik kısımlar genel perspektifi verecek şekilde anlatılacaktır. Uygulama kısımları eğitmenler ile işlenecek ve sonrasında proje ödevleri verilecektir."]
+},
+      {"tag": "vbo aws cloud technical bootcamp_05",
+ "patterns": ["aws cloud technical bootcamp program içeriği nasıl olacak?"],
+ "responses": ["1. Hafta – Network’e Giriş, Network’ün Temel Prensipler, TCP/IP, Subnet, Cloud Network, Örnek Alıştırmalar, 2.Hafta – Linux’a Giriş, Linux’a Genel Bakış, Temel Komutlar, Komutların Local ve Cloud’daki Farkları, Örnek Alıştırmalar, Linux komutlarını Bash scriptle uygulamak, 3.Hafta – Amazon Web Service, Cloud Mimarisine Giriş ve Servislerin Kullanım, IAM (Identity and Access Management), IAAS (Infrastructure as a Service), PAAS (Platform as a Service), SaaS (Software as a Service), RDS (Relational Database Service), FaaS (Function as a Service) (Lambda), SSH – EC2, 4.Hafta – Proje – I AWS S3 Bucket, Bucket’daki Ham Verinin EC2 ile İşlenip, Query ile Veritabanına Aktarılması, Büyük Veriyi Cloud’dan Locale İndirmeden, Bucket’a Programatik, Access Erişimi ile Büyük Veri Manipülasyonu, 5. Hafta – Proje – II AWS Redshift, API Stream’deki Verilerin Web Soket Yardımı ile Çekilmesi, Binance API Stream Verisinin Cloud’da İşlenmesi, Stream Datanın Microservices (Lambda) ile Manipüle Edilip, Database’e Aktarılması, Redshift ile Bucket Arasındaki Bağlantının Kurulup, Query Editor Yardımı ile Chart Oluşturulması, 6. Hafta – Proje – III Amazon Kinesis, Gerçek zamanlı akan veri işlenmesi, Pipeline mimarisi, 7. Hafta – Proje – IV Mobile Application Backend, Bir Mobil Uygulamasının Hayata Geçirilebilmesi için, Backend Mimarisinin Kurulması, Kullanıcının Mobil Cihazına Aldığı Bildirimin Amazon SNS Üzerinden Aktarılması, Mobil Uygulamasının API Gateway Aracılığıyla Güvenli Bir Şekilde Cloud Alt Yapısına Erişim Sağlanması, 8. Hafta – Proje – V SageMaker, SageMaker kullanarak ML algoritmasıyla Web uygulaması geliştirilmesi, 9. Hafta – Final Projesi"]
+},
+       {"tag": "vbo aws cloud technical bootcamp_06",
+   "patterns": ["aws cloud technical bootcamp programı kimlere uygun?"],
+  "responses": ["Cloud öğrenmek isteyen herkese uygun."]
+},
+       {"tag": "vbo aws cloud technical bootcamp_07",
+   "patterns": [ "Çalışmalarımı nasıl bir bilgisayar ile gerçekleştirmeliyim?"],
+  "responses": ["Minimum 8 GB RAM’i olan bir bilgisayar ile gerçekleştirebilirsiniz."]
+},
+       {"tag": "vbo aws cloud technical bootcamp_08",
+   "patterns": [ "Sertifika verilecek mi?", "Sertifika veriliyor mu?", "Sertifika alacak mıyım?"],
+  "responses": ["Sertifika: Sadece başarılı katılımcılar için düzenlenecektir. Başarı kriterleri; 1 haftadan fazla devamsızlık yapmamış olmak, 1 haftadan fazla ödev yapmamış olmak ve final projesinin yapılması gerekmektedir.", "sen sertifikaya filan bakma sen üretmeye bak kanka sertifikayı yine alırsın :D"]
+},
+         {"tag": "vbo azure cloud bootcamp_00",
+     "patterns": [ "Neden azure cloud bootcamp programı?"],
+    "responses": ["Dünyada gelişen, yaygınlaşan ve iş imkanı genişleyen bulut teknolojilerinde Microsoft’a ait ürün olan Azure Cloud’u öğrenerek, Microsoft Azure ortamında servis, sanal makine, uygulama vb. daha birçok projeleri ve işlemleri orta düzeyde gerçekleştirebilir hale geleceksiniz.", "bir şey diycem neden olmasın ki"]
+},
+           {"tag": "vbo azure cloud bootcamp_01",
+       "patterns": [ "azure cloud bootcamp program süresi, tarihleri ve ders saatleri"],
+      "responses": ["Program 22 Şubat – 4 Mayıs 2023 tarihleri arasında gerçekleştirilecektir.Not: Kontenjan sınırlıdır."]
+},
+           {"tag": "vbo azure cloud bootcamp_02",
+       "patterns": [ "azure cloud bootcamp programı ücreti", "Azure Cloud Bootcamp Ücreti Ne kadar?", "Azure Cloud Bootcamp Ücreti", "Azure Cloud Bootcamp Ücreti Nedir?"],
+      "responses": ["Bireysel:7.875 TL,Öğrenci: 6.300 TL"]
+},
+           {"tag": "vbo azure cloud bootcamp_03",
+       "patterns": [ "azure cloud bootcamp ön gereksinimleri"],
+      "responses": ["Başlangıç ve orta düzeyde hazırladığımız eğitimimiz için herhangi bir ön gereksinim bulunmamaktadır.Cloud ortamlarına ilgi, öğrenme isteği ve motivasyon bu eğitim için yeterlidir."]
+},
+           {"tag": "vbo azure cloud bootcamp_04",
+       "patterns": [ "azure cloud bootcamp programının işleyişi"],
+      "responses": ["Program hem teorik, hem de uygulamalı olarak ilerleyecektir. Eğitimin ortasında sınav ve ara proje yapılacaktır. Ardından 2 hafta daha eğitime devam edilerek bitirme sınavı ve projeler yapılacaktır."]
+},
+           {"tag": "vbo azure cloud bootcamp_05",
+       "patterns": [ "azure cloud bootcamp programı kimlere uygun?"],
+      "responses": ["sana uygun kanka sen gel kayıt yaptır sonra yine konuşuruz detayları :D Cloud öğrenmek isteyen herkese uygun."]
+},
+           {"tag": "vbo azure cloud bootcamp_06",
+       "patterns": ["azure cloud bootcamp programı süresince dersler nerede işlenecektir?"],
+      "responses": ["Zoom üzerinden gerçekleşecektir."]
+},
+          {"tag": "iş garantisi_00",
+        "patterns": [ "İş garantisi var mı?"],
+         "responses": ["İş garantisi yok kanka sen iş bulursun"]
+},
+          {"tag": "iş garantisi_01",
+        "patterns": [ "Kesin iş bulur muyum?", "İş Bulma imkanı var mı?"],
+            "responses": ["Programın akışına göre ilerlersen ve gerekli ödevleri yaparsan iş bulma şansın yüksek olur."]
+},
+          {"tag": "iş garantisi_02",
+        "patterns": [ "Eğitim bitince iş bulur muyum?"],
+            "responses": ["Kişisel çabana ve azmine bağlı olarak iş bulma şansın var tabi"]
+},
+          {"tag": "kurs önerisi_00",
+        "patterns": [ "Kurs önerisi verir misin?"],
+            "responses": ["Kurs önerisi verebilmem için öncelikle hangi alanda çalışmak istediğini/hangi alan dikkatini çekiyor bulman gerekiyor. Buradan https://www.miuul.com/katalog?tur=tumu eğitimleri inceleyebilirsin."]
+},
+          {"tag": "kurs önerisi_01",
+        "patterns": [ "Veri bilimi için hangi kursları önerirsin?","Data science için hangi kursları önerirsin?"],
+            "responses": ["Data Scientist Path, Data Scientist Bootcamp"]
+},
+            {"tag": "kurs önerisi_02",
+        "patterns": [ "Veri analisti için hangi kursları önerirsin?","Data analyst için hangi kursları önerirsin?"],
+            "responses": ["Data Analyst Path, Data Analyst Bootcamp"]
+},
+            {"tag": "kurs önerisi_03",
+        "patterns": [ "Veri mühendisliği için hangi kursları önerirsin?", "Data engineering için hangi kursları önerirsin?"],
+            "responses": ["Data Engineering Path, Data Engineering Bootcamp"]
+},
+
+            {"tag": "kurs önerisi_04",
+        "patterns": [ "Cloud için hangi kursları önerirsin?"],
+            "responses": ["AWS CLoud Bootcamp, Microsoft Azure Cloud Bootcamp"]
+},
+         {"tag": "selamlaşma",
+     "patterns": [ "hi", "selam", "merhabalar", "merhaba", "bilmem bana yardımcı olabilir misin"],
+    "responses": ["merhabalar, sana nasıl yardımcı olabilirim"
+    , "Selam, sana nasıl yardımcı olabilirim :)"]
+},
+         {"tag": "hakkında",
+     "patterns": [ "sen kimsin?"," sen nesin?","sen robot musun", "sen bot musun" ],
+    "responses": ["ben MVK :D", "buralarda yeniyim bir zamanlar sizin gibi öğrenciydim", "beni ceren ve leyla yaptı, mutluyum onları seviyorum, öpücük"]
+},
+         {"tag": "yaş",
+     "patterns": ["kaç yaşındasın", "yaş kaç", "yaş", "yaşınız" ],
+    "responses": ["hahaha 30 yokum ama 29 varım https://www.youtube.com/shorts/clcrvolYLxU"]
+},
+         {"tag": "konuşmayı bitir",
+     "patterns": [ "by", "görüşürüz", "tekrar görüşmek üzere", "ben gidiyorum", "bay bay", "bys"],
+    "responses": ["görüşürüz, kendine iyi bak", "tekrar görüşmek üzere", "ben de gidiyorum", "bay bay", "bys", "görüşürüz","yine gel","her zaman buradayım"]
+},
+         {"tag": "Cloud_00",
+     "patterns": [ "Cloud eğitimi var mı?","Cloud eğitimi", "Cloud", "Bulut eğitimi var mı?", "bulut teknolojileri"],
+    "responses": ["Olmaz mııııı, sen istersin de biz yapmaz mıyız :) AWS mi Azure mu istersin?"]
+},
+         {"tag": "Cloud_01",
+     "patterns": ["Azure eğitimi var mı?", "Azure Cloud eğitimi var mı?","Azure","Azure eğitimi istiyorum"],
+    "responses": ["Azure Cloud Bootcamp eğitimimiz var. Kendin incelemek istersen detayları için https://bootcamp.veribilimiokulu.com/bootcamp-programlari/microsoft-azure-cloud-bootcamp/ adresine bakabilirsin."]
+},
+         {"tag": "Cloud_02",
+        "patterns": ["AWS eğitimi var mı?","AWS","AWS eğitim","Aws eğitimi","AWS eğitimi istiyorum"],
+        "responses": ["AWS Cloud Bootcamp eğitimimiz var. Kendin incelemek istersen detayları için https://bootcamp.veribilimiokulu.com/bootcamp-programlari/aws-cloud-technical/ adresine bakabilirsin."]
+},
+
+         {"tag": "İletişim_00",
+     "patterns": [ "Yetkili birisiyle görüşebilir miyim?","Konuşabileceğim başka biri var mı","Başka biri gelsin"],
+    "responses": ["Elif ya da Furkan'a yaz istersen --> info@veribilimiokulu.com adresinden bizimle iletişime geçebilirsin."]
+},
+           {"tag": "İletişim_01",
+     "patterns": [ "Neden telefon numaranız yok?"],
+    "responses": ["Ben senin yılgın bir hoş görüyle beni benimsemene mi kaldım"]
+},
+         {"tag": "İletişim_02",
+     "patterns": [ "MVK kim", "MVK ne", "MVK açılımı ne",  "MVK mı", "Vahit kim", "Vahit Keskin kim", "Vahit Keskin"],
+    "responses": ["Öğrenmen için 3 saniyen var, git öğren"]
+},
+         {"tag": "İletişim_03",
+     "patterns": [ "Recap ne", "Recap", "Recap nedir"],
+    "responses": ["Derste beni göreceksin daha ne olsun karşim, sen kayıt ol bekle beni"]
+},
+         {"tag": "İletişim_04",
+     "patterns": [ "Mentör ne ", "Mentör", "Mentör nedir", "Mentör kimler", "Benim mentörüm kim", "Benim mentörüm kim olacak", "Mentor ne ", "Mentor", "Mentor nedir", "Mentor kimler", "Benim mentorum kim", "Benim mentorum kim olacak"],
+    "responses": ["İyi bir kursiyer olursan proje perilerini görebilirsin, mentör desteği bootcamplerde sizlere rastgele atanmış olan ve tüm süreç boyunca yardımcı olacak kişilerdir. Pathlerde ise support ekibi offline şekilde size yardımcı olacaktır."]
+},
+
+         {"tag": "Karşılaştırma_00",
+     "patterns": [ "Data scientist mi data engineering mi", "Veri bilimi mi veri mühendisliği mi","Veri mühendisliği mi veri bilimi mi"],
+    "responses": ["Her şeyi MVK'dan beklemeyelim. Eyyy Google gel bakiim buraya"]
+},
+         {"tag": "Karşılaştırma_01",
+     "patterns": [ "Data scientist mi data analyst mi", "Veri bilimi mi veri mühendisliği mi","Veri mühendisliği mi veri bilimi mi"],
+    "responses": ["Her şeyi MVK'dan beklemeyelim. Eyyy Google gel bakiim buraya"]
+},
+         {"tag": "Karşılaştırma_02",
+     "patterns": [ "Data analyst mi data engineering mi", "veri analizi ile veri mühendisliği arasıdaki farklar nedir","veri analizi ile veri mühendisliği arasıdaki fark ne", "Data analyst ile data engineering  arasındaki farklar nedir"],
+    "responses": ["Her şeyi MVK'dan beklemeyelim. Eyyy Google gel bakiim buraya"]
+},
+         {"tag": "Karşılaştırma_03",
+     "patterns": ["VBO Miuul farkı ne?"],
+    "responses": ["VBO business tarafı iş çözümlerini üretiyor. Miuul ise online öğrenme platformu."]
+},
+         {"tag": "Karşılaştırma_04",
+     "patterns": ["Bootcamp ile path farkı ne?","Miuul Path programı ile Bootcamp programı arasındaki farklar neler?"],
+    "responses": ["Bootcamp hızlandırılmış haftalık programı olan bir eğitim iken path kendi zaman uygunluğuna göre ilerleyebileceğin 12 ay erişime açık olan kurslardır."]
+},
+         {"tag": "Miuul_00",
+     "patterns": ["Miuul'un anlamı ne?", "Miuul'un bir anlamı var mı?","Miuul anlamı", "Miuul ne biçim isim"],
+    "responses": ["Bir anlamı yok, o zaman dans "]
+},
+         {"tag": "Miuul_01",
+     "patterns": [ "Miuul nedir?","Miuul ne", "Miuul ne ya"],
+    "responses": ["Miuul veri ile kariyerini şekillendirmek isteyenler için yol haritalarıyla hedefine ulaşmasına yardımcı olan bir platformdur."]
+},
+
+         {"tag": "Kayıt_00",
+     "patterns": [ "Nasıl kayıt olabilirim?","Kayıt olmak istiyorum", "Kayıt olmak için ne yapmam gerekiyor?","Daha detaylı bilgi","Detaylı bilgi verebilir misiniz?","Detaylı bilgi için yönlendirme"],
+    "responses": ["https://www.miuul.com/ adresini ziyaret edebilirsin. Ayrıca info@veribilimiokulu.com mail adresinden bizimle iletişime geçebilirsin."]
+},
+
+         {"tag": "hiçbilmeyen_00",
+     "patterns": ["Excel öğrenmek istiyorum.", "Power BI öğrenmek istiyorum.","Data analyst programı almak istiyorum","data analyst e kayıt olmak istiyorum"],
+    "responses": ["Data analyst path veya data analyst bootcamp programlarımızı inceleyebilirsin. Data analyst path için: https://miuul.com/data-analyst-path, Data analyst bootcamp için: https://l24.im/YiTFCtG"]
+},
+         {"tag": "hiçbilmeyen_01",
+     "patterns": ["Python öğrenmek istiyorum.", "SQL öğrenmek istiyorum.","Uçtan uca veri bilimi öğrenmek istiyorum.","Makine öğrenmesi öğrenmek istiyorum.","Data scientist programı almak istiyorum","data scientist e kayıt olmak istiyorum"],
+    "responses": ["Data scientist path veya data scientist bootcamp programlarımızı inceleyebilirsin. Data scientist path için: https://miuul.com/data-scientist, Data scientist bootcamp için: https://l24.im/fFu65S"]
+},
+         {"tag": "hiçbilmeyen_02",
+     "patterns": ["apache spark streaming öğrenmek istiyorum.", "streaming data", "akan veri", "docker", "spark","linux,Hadoop", "Data engineer programı almak istiyorum","data engineer e kayıt olmak istiyorum"],
+    "responses": ["Data engineering path veya data engineering bootcamp programlarımızı inceleyebilirsin. Data engineer path için: https://miuul.com/data-engineer-path, Data engineering bootcamp için:https://l24.im/Vns "]
+},
+
+         {"tag": "süre_00",
+     "patterns": ["ne kadar süre ayırmam gerekir", "kurslar ne kadar süre"],
+    "responses": ["bootcampler 4 ay sürelidir. Pathler 12 aylık  erişim vardır, katılımcının takip etmesi beklenir"]
+},
+         {"tag": "gruplar_00",
+     "patterns": ["gruplar kaç kişilik oluyor", "gruplar kaç kişi", "gruplar kaç kişilik"],
+    "responses": ["Bootcampler kendi içinde katılımcı sayısına göre eşit dağımlı olacaktır. Pathlerde bireysel çalışma oluyor."]
+},
+         {"tag": "ön hazırlıkgenel_00",
+     "patterns": ["ön hazırlık gerekiyor mu", "ön koşul var mı", "ön gereksinimler nelerdir"],
+    "responses": ["Bazı bootcamplerimiz için ön hazırlık vardır ve bootcamp başlamadan önce sizlere tanımlanır. Pathler içinse videoların hepsi path içeriğinde tanımlı haldedir."]
+},
+         {"tag": "indirim_00",
+     "patterns": ["indirim", "indirim var mı", "indirim yap biraz"],
+    "responses": ["sen kayıt ol bakarız ama bize gelişi bu kanka kurtarmıyor, valla tık tık :D"]
+},
+          {"tag": "VBO_00",
+      "patterns": [ "VBO", "VBO nedir?", "VBO ne demek?","Veri Bilimi Okulu"],
+     "responses": ["Veri odaklı içerik üreticilerini bir araya getiren platform. Sınıf içi, online ve şirketlere özel paket video eğitimler. Veri bilimi ve büyük veri proje danışmanlıkları."]
+},
+          {"tag": "VBO_01",
+      "patterns": [ "Neden VBO", "Neden Veri Bilimi Okulu?"],
+     "responses": ["Veri Bilimi Okulu; eğitmenleri alanında uzman, sektör deneyimi olan ve eğitimcilik yapmış profesyonellerin bir araya geldiği bir platformdur."]
+},
+          {"tag": "VBO_02",
+      "patterns": [ "Eğitimciler kimler?","Öğretmenler kimler?","Eğitmenler kimler?","Eğitmenler kim?","Eğitmen kim?"],
+     "responses": ["Data Analyst Path/Bootcamp: Atilla YARDIMCI, Data Scientist Path/Bootcamp: Vahit KESKİN, AWS Cloud Bootcamp: Sinan ARTUN - Han KURT, Data Engineering Path/Bootcamp: Erkan ŞİRİN, MLOps Bootcamp: Erkan ŞİRİN, Microsoft Azure Cloud Bootcamp: Mustafa ÖZDEMİR, MS SQL Developer Bootcamp: Ömer ÇOLAKOĞLU"]
+},
+            {"tag": "Ödeme_00",
+      "patterns": ["Taksit imkanı var mı?","Taksit yapıyor musunuz?"],
+     "responses": ["Maalesef taksit imkanı bulunmamaktadır."]
+},
+            {"tag": "Ödeme_01",
+      "patterns": [ "Son ödeme tarihi var mı?","Ödeme yapmam için son tarih ne?"],
+     "responses": ["Path programlarında son ödeme tarihi yoktur. Bootcamp programlarında ise son ödeme tarihi 1 ay öncesidir."]
+},
+            {"tag": "Ödeme_02",
+      "patterns": [ "İndirim uygulayabilir misiniz?", "İndirim yapıyor musunuz?"],
+     "responses": ["Bootcamplerimizden mezun olanlara diğer bootcamplere kayıt oldukları zaman %20 indirim uygulanmaktadır. Path programlarında indirim yapılmamaktadır. Yapılan indirim fırsatlarını kaçırmamak için bizi sosyal medya hesaplarımızdan takip edebilirsin."]
+},
+          {"tag": "SSS_00",
+      "patterns": ["Öğrenci değilim ama öğrenci olarak katılabilir miyim?"],
+     "responses": ["Evet, öğrenci olmanız gerekmiyor."]
+},
+
+          {"tag": "SSS_01",
+      "patterns": [ "Dersleri sonradan izleyebilecek miyiz?"],
+     "responses": ["Path programları 12 ay erişime açık olduğu için dersleri istediğiniz zaman izleyebilirsiniz. Bootcamp programları ise 4 ay süreli olduğu için dersleri sonradan izleyemezsiniz."]
+},
+
+          {"tag": "SSS_02",
+      "patterns": [ "Program mezunlarının iş bulma yüzdesi nedir?"],
+     "responses": ["Katılımcıların programı takip etmesine, kendilerini geliştirmelerine bağlı olarak iş bulma yüzdesi değişmektedir."]
+},
+          {"tag": "SSS_03",
+      "patterns": ["Program hakkında bilgi almak istiyorum, kısaca bilgilendirebilir misiniz?"],
+     "responses": ["Data ve cloud eğitimlerimizi https://bootcamp.veribilimiokulu.com/bootcamp-programlari/ veya https://www.miuul.com/ adreslerinden inceleyebilirsin. Aklına takılan sorular için info@veribilimiokulu.com adresine mail atabilirsin."]
+}
+
+
+
+]
+}
+
