@@ -30,6 +30,11 @@ Finally, we tokenized the data by using lemmatization. We used n-gram that creat
 <details>
 <summary><h3 align="left">Visualization</h2></summary>
 For visualization, we used word cloud. Word cloud is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. Significant textual data points can be highlighted using a word cloud.
+
+<img width="960" alt="bot1" src="img/vbo_wc.jpg">
+
+<img width="960" alt="bot1" src="img/miuul_wc.jpg">
+
 </details>
 
 
